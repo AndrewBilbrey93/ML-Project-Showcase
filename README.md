@@ -9,9 +9,9 @@ A project developed for a Big Data class, leveraging Apache Spark to build a mov
 
 ### Key Features:
 
-Collaborative filtering for personalized recommendations
-Efficient handling of large datasets using Spark
-Evaluation of recommendation accuracy through metrics such as RMSE
+-Collaborative filtering for personalized recommendations
+-Efficient handling of large datasets using Spark
+-Evaluation of recommendation accuracy through metrics such as RMSE
 
 
 ## Sound Recognition (2020)
@@ -20,18 +20,17 @@ This capstone project for my Master’s degree involved extracting audio feature
 
 ### Key Components:
 
-Audio feature extraction techniques (e.g., MFCC, chroma features)
-Model evaluation using precision, recall, and accuracy metrics
-Insights into the effectiveness of different recognition algorithms
+-Audio feature extraction techniques (e.g., MFCC, chroma features)
+-Model evaluation using precision, recall, and accuracy metrics
+-Insights into the effectiveness of different recognition algorithms
 
 ### Technologies Used:
 
-Python, TensorFlow, and associated libraries for machine learning
-Apache Spark for data processing in the Movie Recommender
-Sound analysis libraries for audio feature extraction
+-Python, TensorFlow, and associated libraries for machine learning
+-Apache Spark for data processing in the Movie Recommender
+-Sound analysis libraries for audio feature extraction
 
-### Getting Started:
-To run the projects, please ensure you have the required libraries installed. You can set up the environment as follows:
+
 
 ### Contributing:
 Contributions and feedback are welcome! Please feel free to submit issues or pull requests.
