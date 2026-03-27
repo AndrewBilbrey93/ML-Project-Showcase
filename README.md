@@ -33,12 +33,7 @@ Sound analysis libraries for audio feature extraction
 ### Getting Started:
 To run the projects, please ensure you have the required libraries installed. You can set up the environment as follows:
 
-### bash
-
-pip install -r requirements.txt
-
 ### Contributing:
 Contributions and feedback are welcome! Please feel free to submit issues or pull requests.
 
-### License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+
